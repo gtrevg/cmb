@@ -151,7 +151,7 @@ persist to disk!).
    
    or download binary from
    
-   http://cmb-releases.s3-website-us-west-1.amazonaws.com/
+   https://github.com/Comcast/cmb/releases
    
 2. Unpack binary from target folder:
 
